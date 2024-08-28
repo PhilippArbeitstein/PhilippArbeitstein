@@ -1,61 +1,13 @@
-
-<a href="https://github.com/PhilippArbeitstein" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=PhilippArbeitstein&count_private=true&theme=radical" />
-</a>
-
-<h1>Hi 👋, I'm Philipp</h1>
-
-<p>CS Student from Klagenfurt, Austria</p>
-
-<h2>🛠 Skills</h2>
-<p>
-
-<a target="_blank" href="https://www.w3.org/html/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="html5" width="42" height="42" />
-</a>
+# 💫 About Me:
+Hi 🙋‍♂️,I’m Philipp, a 22-year-old Computer Science student at Alpen Adria University in Klagenfurt. <br>Passionate about technology and problem-solving, I’m focused on expanding my knowledge in software development. 
 
 
-<a target="_blank" href="https://www.w3schools.com/css/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="42" height="42" />
-</a>
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=PhilippArbeitstein&theme=default&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=PhilippArbeitstein&theme=default&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PhilippArbeitstein&theme=default&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-<a target="_blank" href="https://spring.io/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://developer.android.com" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.mysql.com/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.postgresql.org" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.figma.com/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://www.linux.org/" target="_blank" style="display: inline-block;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="42" height="42" />
-</a>
-
-
-<a target="_blank" href="https://git-scm.com/" target="_blank" style="display: inline-block;">
-<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" />
-</a>
-
-</p>
-
-<a href="https://github.com/PhilippArbeitstein" target="_blank">
-<img height="200" align="center" src="https://github-readme-stats-one-mu-82.vercel.app/api/top-langs/?username=PhilippArbeitstein&layout=compact&langs_count=8&bg_color=ffffff#gh-light-mode-only" />
-</a>
+---
+[![](https://visitcount.itsvg.in/api?id=PhilippArbeitstein&icon=0&color=0)](https://visitcount.itsvg.in)
