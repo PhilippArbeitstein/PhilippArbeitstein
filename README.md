@@ -1,5 +1,5 @@
 # 🙋‍♂️ About Me:
-Hi,I’m Philipp, a 22-year-old Computer Science student at Alpen Adria University in Klagenfurt. <br>Passionate about technology and problem-solving, I’m focused on expanding my knowledge in software development. 
+Hi, I’m Philipp, a 22-year-old Computer Science student at Alpen Adria University in Klagenfurt. <br>Passionate about technology and problem-solving, I’m focused on expanding my knowledge in software development. 
 
 
 # 💻 Tech Stack:
